@@ -31,7 +31,7 @@ cd NDDEs
 
 To ensure your environment is fully compatible with this project, you can download a pre-packaged set of all required libraries from the link below. This file contains all necessary dependencies as they were configured and used in the development environment.
 
-[Download Packaged Dependencies](https://drive.google.com/file/d/1aZzYxiEs0ugrfa6piFoQye_fBNg3tsWJ/view?usp=sharing "Download dependencies")
+[Download Packaged Dependencies](https://drive.google.com/file/d/1yTlL9Qgvj2z3kztmSHa80sTw04w3byHX/view?usp=drive_link)
 
 ## Code
 
