@@ -23,7 +23,7 @@ You can use the following link to access Baidu's PaddlePaddle AI Studio.
 **Clone the repository:**
 
 ```
-git clone https://github.com/HousenWang/NDDEs.git
+git clone https://github.com/jerymyjohn/PINN-PDDEs.git
 cd NDDEs
 ```
 
@@ -35,4 +35,4 @@ To ensure your environment is fully compatible with this project, you can downlo
 
 ## Code
 
-The code for our numerical experiments can be found in the [`work`](https://github.com/HousenWang/NDDEs/tree/master/work) directory.
+The code for our numerical experiments can be found in the [`PINN-PDDEs`](https://github.com/jerymyjohn/PINN-PDDEs/tree/main/PINN-PDDEs). directory.
